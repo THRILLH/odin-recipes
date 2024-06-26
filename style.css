@@ -18,3 +18,11 @@ body {
 .heading {
     background-color: greenyellow;
 }
+
+.text-description {
+    font-size: 20px;
+}
+
+.text-ingredients {
+    font-size: 18px;
+}
