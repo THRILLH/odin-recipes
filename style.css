@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#recipe-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.heading {
+    background-color: greenyellow;
+}
