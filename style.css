@@ -11,6 +11,11 @@ body {
     height: auto;
 }
 
+.recipe-img-ing {
+    width: 600px;
+    height: auto;
+}
+
 #recipe-title {
     text-align: center;
     font-weight: bold;
@@ -26,4 +31,9 @@ body {
 
 .text-ingredients {
     color: darkred;
+}
+
+.recipe-list {
+    color: blueviolet;
+    background-color: yellowgreen;
 }
