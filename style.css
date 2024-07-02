@@ -36,4 +36,13 @@ body {
 .recipe-list {
     color: blueviolet;
     background-color: yellowgreen;
+    text-align: center;
+    padding: 8px;
+    margin: 8px auto;
+}
+
+.card {
+    padding: 8px;
+    width: 400px;
+    margin: auto;
 }
