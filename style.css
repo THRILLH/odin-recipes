@@ -39,6 +39,7 @@ body {
     text-align: center;
     padding: 8px;
     margin: 8px auto;
+    display: block;
 }
 
 .card {
