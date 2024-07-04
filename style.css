@@ -42,6 +42,10 @@ body {
     display: block;
 }
 
+.recipe-list:hover {
+    background-color: greenyellow;
+}
+
 .card {
     background-color: white;
     padding: 8px;
